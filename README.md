@@ -4,3 +4,5 @@
 Выбор через цифру а вот с клавиатуры. Крч все по классике
 Но вся инфа сохвраняется/изменяется в файле Smth.txt
 
+DB_TOKEN="postgresql+asyncpg://chamomile:02082002@localhost:5432/test_db2"
+TOKEN="5963841255:AAGfwJKvat72Vhq4uVUaZ9jyhsWJyOQ-sLE"
